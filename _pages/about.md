@@ -16,4 +16,4 @@ Email: 1464751753(AT).qq.com
 
 News
 ======
-May 2022， Our paper titled "EAFNet:An Enhancement and Aggregation-Feedback Network for RGB-T Salient object detection" has been publised by Machine Vision and Applications(**CCF-C,SCI**).
+May 2022: Our paper titled "EAFNet:An Enhancement and Aggregation-Feedback Network for RGB-T Salient object detection" has been publised by Machine Vision and Applications(<font color="#dd0000">CCF-C, SCI</font><br />).
