@@ -7,7 +7,7 @@ venue: "信阳艺术职业学院"
 date: 2022-04-17
 location: "河南信阳"
 ---
-深度学习推荐课程：[课程链接]{https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497}
+学习通道：[课程链接](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
 
 说在前面
 ======
