@@ -1,7 +1,16 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "基于物联网的松墨天牛诱捕器智能监控管理系统开发"
+excerpt: "[项目地址](118.178.94.5)<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**项目内容:** 诱捕松褐天牛等松林天牛是监测和防控松材线虫病的重要措施。为了解决我国天牛诱捕
+器使用量大、管理混乱等现实问题而开发出该系统，利用二维码数字技术和空间信息技术，实现了
+省-市-县多层级对诱捕器使用情况、诱捕量、空间位置、区域气象条件等信息的可视化适时追踪，并
+自动完成诱捕数据的统计分析，及时掌握各地松林天牛发生情况。
+**技术使用:**（1）后端：技术使用[SpingBoot+Mybatis],开发工具[IntelliJIDEA2020.2, NavicatforMySQL],
+运行环境[JDK1.8,MySQL5.5,Maven3.6]。(2)前端:技术使用[Vue.js+ElementUI],开发工具[VisualStudio
+Code]。(3)（1）App 端：使用 ionic 框架，实现对诱捕器等六个模块的数据采集、上传，地图查看，历
+史数据查看等功能，其中采集和上传的数据包括经纬度、海拔、精度、设备信息、照片等。
+**负责：**本人主要负责前后端部分模块开发与设计以及后续维护。
+**成果：**该系统在福建、山东、重庆等省市大面积使用，运行状况良好。
